@@ -1,0 +1,18 @@
+# Compiled output
+*.exe
+*.o
+*.mod
+obj/
+
+# Simulation data and output
+runs/
+*.DAT
+*.OUT
+*.traj
+dbgtest*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated plots (comment out if you want to track them)
+src/*.png
